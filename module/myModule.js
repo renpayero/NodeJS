@@ -12,3 +12,4 @@ const group = {
     myObject
 }
 module.exports = group
+
