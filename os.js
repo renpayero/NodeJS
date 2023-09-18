@@ -11,3 +11,4 @@ console.table({
     version: os.release(),
     totalMemory: os.totalmem()
 })
+
