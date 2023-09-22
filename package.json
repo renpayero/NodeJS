@@ -3,5 +3,26 @@
     "@types/node": "^20.6.2",
     "bootstrap": "^5.3.2",
     "lodash": "^4.17.21"
+  },
+  "name": "cursonode",
+  "version": "0.0.1",
+  "description": "este es un curso de nodejs de fazt",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renpayero/NodeJS"
+  },
+  "keywords": [
+    "curso",
+    "nodejs",
+    "fazt"
+  ],
+  "author": "renpayero",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
